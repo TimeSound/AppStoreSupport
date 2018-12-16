@@ -1,6 +1,6 @@
 #### Hello!
 
-#### Thank you for your experience. For current now, TimeSound is an app that helps you to record voice and replay it.
+#### Thank you for your experience. TimeSound is an app that helps you to record voice and replay it.
 
 #### TimeSound requires microphone access to record voice, and it will send you local notification when recording/playing finished in background.
 
