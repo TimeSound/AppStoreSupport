@@ -4,4 +4,6 @@
 
 #### TimeSound requires microphone access to record voice, and it will send you local notification when recording/playing finished in background.
 
-#### All your records will be storaged on your deviceonly. No personal information is required.
+#### All your records will be storaged on your device only. No personal information is required.
+
+####
